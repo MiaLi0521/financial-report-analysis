@@ -9,7 +9,7 @@
 
 
 
-![](.readme\image-1.png)
+![](https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-1.png)
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-![](.readme\image-2.png)
+![](https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-2.png)
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-![](.readme\image-3.png)
+![](https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-3.png)
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-![](.readme\image-4.png)
+![](https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-4.png)
 
 
 
@@ -93,7 +93,7 @@
 
 
 
-![](.readme\image-5.png)
+![](https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-5.png)
 
 
 
@@ -101,7 +101,7 @@
 
 
 
-![](.readme\image-6.png)
+![](https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-6.png)
 
 
 
@@ -109,7 +109,7 @@
 
 
 
-![](.readme\image-7.png)
+![](https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-7.png)
 
 
 
@@ -121,10 +121,18 @@
 
 
 
-![](.readme\image-8.png)
+![](https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-8.png)
 
 
 
 ### 7. 综合分析
 
 除了通过上述六个步骤拆开分析资产负债表、利润表和现金流量表之外，也可以选择更加简洁的方式。运行 `all_analysis.ipynb` 将从十九个步骤综合分析一家企业的财务报告，并在 `dist`目录下产生 `xxxxxx ALL_ANALYSIS 2016~2020.docx` 格式的分析报告。
+
+
+
+更多精彩解读，扫描二维码，在小鱼的博客中获取吧~
+
+
+
+<img src="https://raw.githubusercontent.com/MiaLi0521/financial-report-analysis/main/.readme/image-9.jpg" style="zoom:25%;" />
